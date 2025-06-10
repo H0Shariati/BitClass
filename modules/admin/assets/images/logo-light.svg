@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 802.98 299.49">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #f3ab4e;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-6 {
+        fill: #f4ac4e;
+      }
+
+      .cls-5 {
+        font-family: IRANSansXVF-ExtraBoldD4, IRANSansXVF;
+        font-size: 61.26px;
+        font-variation-settings: 'wght' 800, 'DOTS' 4;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-family: IRANSansXVF-ExtraBlackD4, IRANSansXVF;
+        font-size: 104.37px;
+        font-variation-settings: 'wght' 950, 'DOTS' 4;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-1" points="648.2 11.21 505.02 66.29 563.52 89.47 648.2 123.04 789.19 67.12 648.2 11.21"/>
+    <path class="cls-1" d="M647.11,119.73l-84.53-30.91,1.56,122.24c.18,14.17,4.45,28.07,12.7,39.59,8.43,11.78,22.48,24.43,45.83,33.03.83.42,19.61,4.59,24.41,11.27-.04.32-.02-5.84.03-16,.05,10.16.07,16.32.03,16,4.8-6.68,23.58-10.85,24.41-11.27,23.35-8.6,37.39-21.26,45.83-33.03,8.25-11.52,12.52-25.42,12.7-39.59l1.56-122.24-84.53,30.91Z"/>
+    <polygon class="cls-4" points="563.22 138.91 637.3 168.94 637.3 196.9 657.75 196.9 657.75 167.9 730.99 138.91 731.63 88.82 648.2 123.04 562.58 88.82 563.22 138.91"/>
+    <rect class="cls-1" x="595.99" y="178.54" width="19.61" height="19.61"/>
+    <rect class="cls-4" x="615.65" y="197.78" width="19.61" height="19.61"/>
+    <rect class="cls-4" x="679.86" y="178.54" width="19.61" height="19.61"/>
+    <rect class="cls-1" x="659.83" y="197.78" width="19.61" height="19.61"/>
+    <path class="cls-6" d="M659.17,69.53c3.12.86,6.24,1.71,9.36,2.57l22.49,6.17,27.23,7.47,23.56,6.46c3.82,1.05,7.64,2.26,11.5,3.16.05.01.11.03.16.04,3.11.85,4.43-3.97,1.33-4.82s-6.24-1.71-9.36-2.57l-22.49-6.17-27.23-7.47-23.56-6.46c-3.82-1.05-7.64-2.26-11.5-3.16-.05-.01-.11-.03-.16-.04-3.11-.85-4.43,3.97-1.33,4.82h0Z"/>
+    <circle class="cls-1" cx="754.92" cy="126.43" r="9.6"/>
+    <line class="cls-2" x1="754.92" y1="88.82" x2="754.92" y2="119.28"/>
+  </g>
+  <g>
+    <text class="cls-3" transform="translate(35.95 217.41)"><tspan x="0" y="0">بیت کلاس</tspan></text>
+    <text class="cls-5" transform="translate(39.72 106.96) scale(1.02 1)"><tspan x="0" y="0">آکـــــــادمــــــــــــــی</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 753.25 283.76">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: IRANSansXVF-ExtraBlackD4, IRANSansXVF;
+        font-size: 104.37px;
+        font-variation-settings: 'wght' 950, 'DOTS' 4;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #1c2a43;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #f3ab4e;
+      }
+
+      .cls-6 {
+        fill: #f4ac4e;
+      }
+
+      .cls-5 {
+        font-family: IRANSansXVF-ExtraBoldD4, IRANSansXVF;
+        font-size: 61.26px;
+        font-variation-settings: 'wght' 800, 'DOTS' 4;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #1e2a43;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-8 {
+        fill: #1e2a43;
+      }
+
+      .cls-9 {
+        fill: #1b2a43;
+      }
+    </style>
+  </defs>
+  <g>
+    <polygon class="cls-2" points="612.26 0 469.08 55.08 527.57 78.26 612.26 111.83 753.25 55.92 612.26 0"/>
+    <path class="cls-9" d="M611.16,108.52l-84.53-30.91,1.56,122.24c.18,14.17,4.45,28.07,12.7,39.59,8.43,11.78,22.48,24.43,45.83,33.03.83.42,19.61,4.59,24.41,11.27-.04.32-.02-5.84.03-16,.05,10.16.07,16.32.03,16,4.8-6.68,23.58-10.85,24.41-11.27,23.35-8.6,37.39-21.26,45.83-33.03,8.25-11.52,12.52-25.42,12.7-39.59l1.56-122.24-84.53,30.91Z"/>
+    <polygon class="cls-4" points="527.27 127.71 601.36 157.73 601.36 185.69 621.8 185.69 621.8 156.7 695.05 127.71 695.69 77.61 612.26 111.83 526.64 77.61 527.27 127.71"/>
+    <rect class="cls-3" x="560.04" y="167.33" width="19.61" height="19.61"/>
+    <rect class="cls-4" x="579.71" y="186.58" width="19.61" height="19.61"/>
+    <rect class="cls-4" x="643.92" y="167.33" width="19.61" height="19.61"/>
+    <rect class="cls-3" x="623.89" y="186.58" width="19.61" height="19.61"/>
+    <path class="cls-6" d="M623.22,58.33c3.12.86,6.24,1.71,9.36,2.57l22.49,6.17,27.23,7.47,23.56,6.46c3.82,1.05,7.64,2.26,11.5,3.16.05.01.11.03.16.04,3.11.85,4.43-3.97,1.33-4.82s-6.24-1.71-9.36-2.57l-22.49-6.17-27.23-7.47-23.56-6.46c-3.82-1.05-7.64-2.26-11.5-3.16-.05-.01-.11-.03-.16-.04-3.11-.85-4.43,3.97-1.33,4.82h0Z"/>
+    <circle class="cls-8" cx="718.98" cy="115.22" r="9.6"/>
+    <line class="cls-7" x1="718.98" y1="77.61" x2="718.98" y2="108.08"/>
+  </g>
+  <g>
+    <text class="cls-1" transform="translate(0 206.21)"><tspan x="0" y="0">بیت کلاس</tspan></text>
+    <text class="cls-5" transform="translate(3.77 95.75) scale(1.02 1)"><tspan x="0" y="0">آکـــــــادمــــــــــــــی</tspan></text>
+  </g>
+</svg>
